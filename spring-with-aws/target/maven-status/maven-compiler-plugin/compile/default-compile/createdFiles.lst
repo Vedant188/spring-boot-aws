@@ -1,4 +1,5 @@
 com\example\springwithaws\service\AwsService.class
 com\example\springwithaws\config\Config.class
 com\example\springwithaws\SpringWithAwsApplication.class
+com\example\springwithaws\config\SpringFoxConfig.class
 com\example\springwithaws\controller\Controller.class
