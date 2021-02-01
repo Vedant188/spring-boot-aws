@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIAIQQU5MB5QR733HHA
-      secret-key: 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
+      access-key: 
+      secret-key: 
     region:
       static: us-east-2
     stack:
@@ -10,4 +10,4 @@ cloud:
 
 application:
   bucket:
-    name: newhellobucket
+    name: 
